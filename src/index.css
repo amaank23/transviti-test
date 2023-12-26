@@ -11,5 +11,5 @@
 }
 
 .country-select .ant-select-selector {
-  border-radius: 40px !important;
+  border: none !important;
 }

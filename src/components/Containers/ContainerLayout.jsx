@@ -3,7 +3,7 @@ import { PropTypes } from "prop-types";
 
 const ContainerLayout = ({ children }) => {
   return (
-    <div className="max-w-[1192px] 2xl:max-w-[1600px] mx-auto">{children}</div>
+    <div className="max-w-[1192px]  mx-auto">{children}</div>
   )
 }
 
